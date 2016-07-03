@@ -7,7 +7,7 @@ version 0.15.1.
 ## Prerequisites
 
 1) You need to have the Node installed
-2) You need to have Grunt and bower installed, so run npm install -g grunt-cli bower in node cli
+2) You need to have Grunt and bower installed, so run 'npm install -g grunt-cli bower' in node cli
 3) Install some IDE (e.g. Sublime or notepad++) to ease the code writing process
 
 ## Instructions for ChiciLee.
